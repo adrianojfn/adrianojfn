@@ -1,7 +1,7 @@
 ## Hi, my name is Adriano França! 👋
 
-- 👨🏻‍💻 Systems Development Technician. Attending higher education in Systems Analysis and Development
-- 💡 I’m currently learning React.js
+- 👨🏻‍💻 Systems Development Technician. Attending higher education in Computer Science
+- 💡 I’m currently learning JavaScript, React.js and React Native
 
 <div align="center">
   <a href="https://github.com/adrianojfn">
